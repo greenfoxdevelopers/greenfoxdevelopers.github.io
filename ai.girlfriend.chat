@@ -1,0 +1,58 @@
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        p {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Privacy Policy</h1>
+
+<p>Thank you for using our AI Girlfriend App. Your privacy is very important to us. This Privacy Policy explains how we collect, use, and protect your information.</p>
+
+<h2>Information We Collect</h2>
+<p>When you use our app, you may be required to enter your name, phone number, and a topic for the AI conversation. This information is used solely for providing the services of the app and is not stored on our servers.</p>
+
+<h2>Permissions</h2>
+<p>Our app requires the following permissions to function properly:</p>
+<ul> 
+    <li><strong>VIBRATE:</strong> Allows the app to vibrate the device when a fake call is received.</li>
+    <li><strong>WAKE_LOCK:</strong> Prevents the device from going to sleep during an ongoing call.</li>
+    <li><strong>RECORD_AUDIO:</strong> Necessary for the AI to converse with users during the call.</li>
+    <li><strong>WRITE_EXTERNAL_STORAGE:</strong> Allows the app to save data temporarily if needed.</li>
+    <li><strong>READ_EXTERNAL_STORAGE:</strong> Allows the app to read data from external storage when required.</li>
+    <li><strong>INTERNET:</strong> Required for the app to connect to our servers to process the AI conversation.</li>
+    <li><strong>BILLING:</strong> Required for in-app purchases, if applicable.</li>
+    <li><strong>SYSTEM_ALERT_WINDOW:</strong> Allows the app to display incoming call alerts over other apps.</li>
+     <li><strong>FOREGROUND_SERVICE:</strong> Keeps the app running in the foreground for ongoing calls.</li>
+    <li><strong>FOREGROUND_SERVICE_MEDIA_PLAYBACK:</strong> Allows media playback during the call.</li>
+ </ul>
+
+<h2>Data Security</h2>
+<p>We take the security of your information seriously. Our servers do not store any personal information, and we do not share your information with third parties. All communications are kept secure using encryption.</p>
+
+<h2>Your Consent</h2>
+<p>By using our app, you consent to our Privacy Policy and the terms described herein.</p>
+
+<h2>Changes to This Privacy Policy</h2>
+<p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p>
+
+<h2>Contact Us</h2>
+<p>If you have any questions about this Privacy Policy, please contact us at greenfoxdevelopers@gmail.com.</p>
+
+</body>
+</html>
